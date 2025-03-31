@@ -27,4 +27,4 @@ I like working with frontend tools that focus on performance and making the user
 
 - **Portfolio**: [jaysusm.vercel.app](https://jaysusm.vercel.app)  
 - **GitHub**: [github.com/jaysusm](https://github.com/jaysusm)  
-- **LinkedIn**: [linkedin.com/in/jesusm26](https://linkedin.com/in/jesusm26)  
+- **LinkedIn**: [linkedin.com/in/jaysusm](https://linkedin.com/in/jaysusm)  
